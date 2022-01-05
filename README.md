@@ -2,19 +2,6 @@
 
 ## Topic: The optimal location for the microgrid in Seoul
 
-## Why did we start this project?
-
-
-## What is Microgird?
-
-## Which algorithm was used for this project and why?
-
-
-
-## Expected effect
-
-
-## Which point should have been modified?
 
 
 ### code source
